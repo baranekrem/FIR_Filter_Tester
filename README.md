@@ -1,7 +1,9 @@
 # FIR Filter Test Program (Rectengular Window)
 
 FIR Filter Test Program with FFT
-https://github.com/baranekrem/FIR_Filter_Tester/blob/master/output.PNG
+![alt text](https://github.com/baranekrem/FIR_Filter_Tester/blob/master/output.PNG)
+
+
 ## Getting Started
 
 For all about the project you must visit my website :)
