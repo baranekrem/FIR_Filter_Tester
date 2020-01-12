@@ -1,4 +1,4 @@
-# FIR_Filter_Tester
+# FIR Filter Test Program (Rectengular Window)
 
 FIR Filter Test Program with FFT
 
